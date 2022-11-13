@@ -3,9 +3,9 @@ from datetime import timedelta, date
 users = [
     {"name": "Bill", "birthday": date(1992, 11, 18)},
     {"name": "Kate", "birthday": date(2000, 11, 20)},
-    {"name": "John", "birthday": date(2001, 12, 14)},
+    {"name": "John", "birthday": date(2001, 11, 14)},
     {"name": "Ann", "birthday": date(1999, 11, 13)},
-    {"name": "Oleg", "birthday": date(2002, 11, 24)},
+    {"name": "Oleg", "birthday": date(2002, 11, 12)},
     {"name": "Vlad", "birthday": date(1995, 11, 15)},
     {"name": "Frank", "birthday": date(1999, 11, 16)}
 ]
